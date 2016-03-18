@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _Miles Hewitson_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Web Development Portfolio, 3.18.16_
 
-#### By _**{List of contributors}**_
+#### By _**Miles Hewitson**_
 
 ## Description
 
