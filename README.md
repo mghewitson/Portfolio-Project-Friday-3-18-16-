@@ -19,6 +19,6 @@ _Bootstrap was crucial in the building of this site. The section of the page tha
 
 ### License
 
-*This software is licensed under under the MIT license*
+*This software is licensed under the MIT license*
 
 Copyright (c) 2016 **_Miles Hewitson_**
