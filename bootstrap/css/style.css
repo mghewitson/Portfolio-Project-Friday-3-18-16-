@@ -54,3 +54,17 @@ span.icon-bar {
   transform: rotate(180deg);
   border-radius: 25px;
 }
+
+/* About
+==========================*/
+.about {
+  text-align: justify;
+}
+
+a#bki {
+  color: #ff3399;
+}
+
+a#bki:hover{
+  color: black;
+}
