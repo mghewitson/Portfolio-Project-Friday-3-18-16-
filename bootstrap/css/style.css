@@ -1,3 +1,13 @@
+/* BODY
+==========================*/
+.bodycontainer {
+  font-family: "helvetica", sans-serif;
+  color: black;
+  font-weight: lighter;
+  max-width: 1000px;
+  min-width: 1000px;
+  margin: 0 auto;
+}
 
 /* Navbar
 ==========================*/
