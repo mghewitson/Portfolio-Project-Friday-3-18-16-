@@ -8,6 +8,11 @@
   margin: 0 auto;
 }
 
+.row {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
 /* Navbar
 ==========================*/
 a:hover {
@@ -34,6 +39,7 @@ span.icon-bar {
   background-position: bottom;
   color: white;
 
+
 }
 
 .heading {
@@ -58,6 +64,7 @@ span.icon-bar {
 ==========================*/
 .about {
   text-align: justify;
+  padding-left: 5%;
 }
 
 a#bki {

@@ -53,6 +53,10 @@ span.icon-bar {
 
 }
 
+.row {
+  padding-right: 0px;
+  margin-right: 0px;
+}
 
 .col-sm-3 {
   text-align: center;
