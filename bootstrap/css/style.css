@@ -62,6 +62,22 @@ span.icon-bar {
 
 /* About
 ==========================*/
+@media (max-width: 767px) {
+  .col-sm-9 h1 {
+    text-align: center;
+  }
+  .col-sm-3 h3 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 1200px) {
+  .bodycontainer {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
 .about {
   text-align: justify;
   padding-left: 5%;
